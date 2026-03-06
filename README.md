@@ -1,17 +1,24 @@
-# flutter_application_1
+# 📱 Instagram Feed Clone - Flutter
 
-A new Flutter project.
+Este projeto é uma réplica visual do **Feed do Instagram**, desenvolvido em **Flutter** com o objetivo de praticar a construção de interfaces e manipulação de imagens (assets).
 
-## Getting Started
+## 🚀 Funcionalidades
 
-This project is a starting point for a Flutter application.
+* 📜 Feed com rolagem vertical usando `ListView`
+* ❤️ Botão de **Curtir** funcional com mudança de estado
+* 🧩 Layout em camadas utilizando `Stack` e `Positioned`
+* 📱 Interface semelhante ao feed do Instagram
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* **Dart**
+* **Flutter**
+* **VS Code**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Objetivo do Projeto
+
+Praticar a criação de layouts no Flutter e entender melhor o uso de **widgets**, **assets** e **gerenciamento de estado simples**.
+
+---
+
+👨‍💻 Projeto desenvolvido para atividade acadêmica.
